@@ -1,0 +1,15 @@
+# Core scraping
+playwright
+asyncio
+
+# Google Sheets integration
+gspread
+gspread-formatting
+oauth2client
+
+# GUI (ako koristiš PyQt)
+PyQt5
+
+# Logging, formatting, and extras
+rich
+python-dotenv
